@@ -6,7 +6,7 @@ This project serves as a end-to-end data engineering pipeline. It covers each st
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](https://github.com/LuccaCoelho/Data-Pipeline-End-End/blob/main/Data%20engineering%20architecture.png)
 
 The project is designed with the following components:
 
