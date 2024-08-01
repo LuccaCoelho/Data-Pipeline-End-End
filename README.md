@@ -10,7 +10,7 @@ This project serves as a end-to-end data engineering pipeline. It covers each st
 
 The project is designed with the following components:
 
-- **Data Source**: We use `randomuser.me` API to generate random user data for our pipeline.
+- **Data Source**: Used `randomuser.me` API to generate random user data for our pipeline.
 - **Apache Airflow**: Responsible for orchestrating the pipeline and storing fetched data in a PostgreSQL database.
 - **Apache Kafka and Zookeeper**: Used for streaming data from PostgreSQL to the processing engine.
 - **Control Center and Schema Registry**: Helps in monitoring and schema management of our Kafka streams.
